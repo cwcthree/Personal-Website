@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(100, 100, 100)
+}
+
+#nav_bar {
+    font-family: Helvetica;
+    background-color: rgb(50, 50, 50);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-top: -10px;
+    margin-left: -10px;
+    padding-bottom: 1080px;
+    padding-right: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    float: left;
+    text-align: center;
+    position: fixed;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.items {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 10px;
+}
+
+#Home p {
+    margin-left: 500px;
+}
+
+#Home img {
+    margin-left: 200px;
+    display: block;
+    width: 1055px;
+    margin-top: -10px;
+}
+
+#bio {
+    background-color: rosybrown;
+    text-align: center;
+    padding-top: 75px;
+    margin-left: 215px;
+    margin-right: -8px;
+    padding-bottom: 200px;
+}
+
+#Contact {
+    margin-left: 230px
+}
+#secret img {
+    display: block;
+    margin-top: 10000px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
